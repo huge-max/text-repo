@@ -1,2 +1,2 @@
 # text-repo
-i made my first repo!
+I made my first repo!
